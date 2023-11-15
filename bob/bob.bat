@@ -1,11 +1,8 @@
 @echo off
 setlocal enabledelayedexpansion
 
-rem Create 9 text files and write "bob" to each of them
-for /l %%i in (1, 1, 9) do (
-    echo bob > "file%%i.txt"
-    echo Created file%%i.txt
-)
+echo Opening Python script to create notepads...
+python create_notepads.py
 
 echo.
 echo All files created. Press any key to delete them.
