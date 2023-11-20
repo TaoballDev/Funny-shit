@@ -1,0 +1,15 @@
+/workspaces/Funny-shit/bob v3/BobV3/bin/Debug/net7.0/BobV3
+/workspaces/Funny-shit/bob v3/BobV3/bin/Debug/net7.0/BobV3.deps.json
+/workspaces/Funny-shit/bob v3/BobV3/bin/Debug/net7.0/BobV3.runtimeconfig.json
+/workspaces/Funny-shit/bob v3/BobV3/bin/Debug/net7.0/BobV3.dll
+/workspaces/Funny-shit/bob v3/BobV3/bin/Debug/net7.0/BobV3.pdb
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.csproj.AssemblyReference.cache
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.AssemblyInfoInputs.cache
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.AssemblyInfo.cs
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.csproj.CoreCompileInputs.cache
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.dll
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/refint/BobV3.dll
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.pdb
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/BobV3.genruntimeconfig.cache
+/workspaces/Funny-shit/bob v3/BobV3/obj/Debug/net7.0/ref/BobV3.dll
