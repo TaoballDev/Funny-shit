@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  mysql-db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: YYgsydg678w67dg87wds8d6gsydg678w67dg87wds8d6
+      MYSQL_DATABASE: user_database
+      MYSQL_USER: Taoball
+      MYSQL_PASSWORD: Ygsydg678w67dg87wds8d6
+    ports:
+      - "3306:3306"
