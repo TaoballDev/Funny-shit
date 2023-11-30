@@ -1,11 +1,11 @@
 # Funny-shit
-by funny shit i mean like unblocking pc that is dedicated to DogoStyles_ lmao
-bob.bat that makes 9 txt files that has bob in tehm then deletes them
-# how to get it to work
-Commit message here
-# bob
-run bob.bat thats all
-# bob v2
-idk but it may work it you use a server that supports php
-# bob v3
+stupid things all in 1
+# notes 
+Idk if I will make full releases of these since like they are absolute jokes
+# 💮
+gregegation
+# Click to add text
 Click to add text
+(Click to add text)[https://clicktoaddtext.com]
+>Click to add text
+HOW DO I DISABLE STICKY KEYS!??? SOMEONE HELP ME I CANT PRESS THE Click to add text BUTTON WITHOUT IT PASTING THIS STUPID SENTANCE HOW DO I FUClick to add textKING DISAClick to add textLE THIS SHIT
